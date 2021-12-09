@@ -1,4 +1,4 @@
-# Art Club Flyer
+# Art Club Flyer (fall 2021)
 
 This fake event flyer was created as an assignment for an Integrating Writing and Design course. The images used for the flyer were pulled from Unsplash, which allows for free use of images commercially and non-commercially without attribution. The following statement on the flyer's creation is pulled from the course's final portfolio glass on this particular design:
 
